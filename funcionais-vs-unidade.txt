@@ -1,0 +1,3 @@
+1- Testes funcionais são mais caros que testes de unidade.
+
+2- Testes de unidade testam somente uma unidade do sistema, enquanto testes funcionais inicializam e testam uma funcionalidade simulando a interação de um usuário.
